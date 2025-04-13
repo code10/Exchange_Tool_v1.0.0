@@ -20,9 +20,10 @@ Welcome to Smart Code Editor, your ultimate tool for efficient and intelligent c
 
 Contributions are welcome! Please follow these steps to contribute:
 
-1. Sharing on your social media is accepted
+1. Sharing on your social media
 2. Create more code using our product
 3. Make good use out of it
+4. join our discord channel
 
 ## License
 
@@ -30,8 +31,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please contact us at (mailto:s.saadabbas@gmail.com).
+For any questions or feedback, please contact us.
 
 ---
 
-Thank you for using Smart Code Editor! We hope it enhances your coding experience and helps you write better code faster. Happy coding!
+Thank you for using Smart Code Editor!

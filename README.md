@@ -20,8 +20,8 @@ Welcome to Smart Code Editor, your ultimate tool for efficient and intelligent c
 
 Contributions are welcome!
 
-1. Help spread the word by sharing it on your social media platforms.
-2. Use our editor for your projects.
+1. Use our editor for your projects.
+2. Share our editor on your social media platforms.
 3. Share your insights and suggestions on how we can enhance Tentacle.
 4. Connect with other users and developers by joining our Discord channel.
 

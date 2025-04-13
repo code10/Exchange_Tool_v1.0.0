@@ -10,7 +10,7 @@ Welcome to Smart Code Editor, your ultimate tool for efficient and intelligent c
 
 ## Usage
 
-1. Open the Smart Code Editor application - [Tentacle](https://tentacle.site)
+1. Open [Tentacle](https://tentacle.site)
 3. Click on Web or Mobile Apps.
 4. Start coding or add existing code.
 5. Use the debugger to test and debug your code.

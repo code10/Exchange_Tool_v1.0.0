@@ -1,12 +1,10 @@
 # Tentacle-v1
-Welcome to Smart Code Editor, your ultimate tool for efficient and intelligent coding! This project aims to provide a seamless coding experience with advanced features to enhance productivity and code quality.
+Welcome to Tentacle, your ultimate tool for efficient and intelligent coding! This project aims to provide a seamless coding experience with advanced features to enhance productivity and code quality.
 
 ## Features
 
 - **Intelligent Code Completion**: Smart suggestions based on context.
 - **Real-time Error Detection**: Instant feedback on syntax and logical errors.
-- **Integrated Debugger**: Step-by-step debugging with breakpoints and variable inspection.
-- **Extensible Plugins**: Extend functionality with a wide range of plugins.
 
 ## Usage
 
@@ -21,8 +19,8 @@ Welcome to Smart Code Editor, your ultimate tool for efficient and intelligent c
 Contributions are welcome!
 
 1. Use our editor for your projects.
-2. Share our product on your social media platforms.
-3. Share your insights and suggestions on how we can enhance Tentacle.
+2. Share our editor on your social media platforms.
+3. Share your insights and suggestions on how to improve this editor.
 
 ## License
 

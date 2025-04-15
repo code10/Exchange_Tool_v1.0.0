@@ -1,5 +1,5 @@
 # Tentacle-v1
-Welcome to Tentacle, your ultimate tool for efficient and intelligent coding! This project aims to provide a seamless coding experience with advanced features to enhance productivity and code quality.
+Your ultimate tool for efficient and intelligent coding! This project aims to provide a seamless coding experience with advanced features to enhance productivity and code quality.
 
 ## Features
 

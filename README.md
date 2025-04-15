@@ -12,7 +12,6 @@ Welcome to Tentacle, your ultimate tool for efficient and intelligent coding! Th
 3. Click on Web or Mobile Apps.
 4. Start coding or add existing code.
 5. Use the debugger to test and debug your code.
-6. Check code results.
 
 ## Contributing
 

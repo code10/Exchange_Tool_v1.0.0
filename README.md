@@ -8,6 +8,8 @@ Your ultimate tool for efficient and intelligent coding! This project aims to pr
 
 ## Usage
 
+Download [Tentacle](tentacle.py)
+
 1. Open Tentacle
 3. Click on Web or Mobile Apps.
 4. Start coding or add existing code.

@@ -1,27 +1,26 @@
-# Tentacle-v1
-Your ultimate tool for efficient and intelligent coding! This project aims to provide a seamless coding experience with advanced features to enhance productivity and code quality.
+# Exchange Tool v1.0.0
+Your ultimate tool for p2p crypto exchange! This project aims to provide a seamless money exchange experience.
 
 ## Features
 
-- **Intelligent Code Completion**: Smart suggestions based on context.
-- **Real-time Error Detection**: Instant feedback on syntax and logical errors.
+- **Escrow System**: Protect both buyers and sellers.
+- **Multiple Payment Methods**: Breaking the restrictive centralized exchanges.
 
 ## Usage
 
-Download [Tentacle](Tentacle.py)
+Download [Exchange Tool v1.0.0](Exchange_Tool_v1.0.0.py)
 
-1. Open Tentacle
-3. Click on Web or Mobile Apps.
-4. Start coding or add existing code.
-5. Use the debugger to test and debug your code.
+1. Open Exchange Tool
+2. Login with your email
+3. Start your exchange journey
 
 ## Contributing
 
 Contributions are welcome!
 
-1. Use our editor for your projects.
-2. Share our editor on your social media platforms.
-3. Share your insights and suggestions on how to improve this editor.
+1. Use our app for your personal projects.
+2. Share our app with your friends on social media.
+3. Share your insights and suggestions on how to improve this app.
 
 ## License
 

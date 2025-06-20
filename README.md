@@ -8,7 +8,7 @@ Your ultimate tool for p2p crypto exchange! This project aims to provide a seaml
 
 ## Usage
 
-Download [Exchange Tool v1.0.0](Exchange_Tool_v1.0.0.py)
+Download [Exchange Tool v1.0.0](app.py)
 
 1. Open Exchange Tool
 2. Login with your email

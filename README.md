@@ -29,5 +29,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or feedback, please contact us.
-Discord  : https://discord.gg/rXPKpUMDqJ
-Telegram : https://t.me/ttcle
+[Discord](https://discord.gg/rXPKpUMDq)
+[Telegram](https://t.me/ttcle)
